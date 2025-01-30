@@ -5,6 +5,10 @@
         "text": "Aetherial Islands",
         "color": "#e7db1e"
       },
+      {
+        "text": " (dimensional)",
+        "color": "#AAAAAA"
+      },
       "\n",
       {
         "text": "Made by ",
@@ -13,6 +17,10 @@
       {
         "text": "Klinbee",
         "color": "#ffc76f"
+      },
+      {
+        "text": " (modified by Secrai)",
+        "color": "#AAAAAA"
       }
     ],
     "pack_format": 15,
@@ -35,6 +43,14 @@
       {
         "formats": [60, 999],
         "directory": "overlay4"
+      },
+      {
+        "formats": [15, 57],
+        "directory": "overlay_pre_pale_garden"
+      },
+      {
+        "formats": [58, 61],
+        "directory": "overlay_post_pale_garden"
       }
     ]
   }

@@ -3928,7 +3928,7 @@
                             "type": "minecraft:condition",
                             "if_true": {
                               "type": "minecraft:biome",
-                              "biome_is": ["minecraft:stony_shore"]
+                              "biome_is": ["skylands:stony_shore"]
                             },
                             "then_run": {
                               "type": "minecraft:sequence",
@@ -4339,8 +4339,8 @@
                         "if_true": {
                           "type": "minecraft:biome",
                           "biome_is": [
-                            "minecraft:old_growth_pine_taiga",
-                            "minecraft:old_growth_spruce_taiga"
+                            "skylands:old_growth_pine_taiga",
+                            "skylands:old_growth_spruce_taiga"
                           ]
                         },
                         "then_run": {
@@ -4753,7 +4753,7 @@
                             "type": "minecraft:condition",
                             "if_true": {
                               "type": "minecraft:biome",
-                              "biome_is": ["minecraft:stony_shore"]
+                              "biome_is": ["skylands:stony_shore"]
                             },
                             "then_run": {
                               "type": "minecraft:sequence",
