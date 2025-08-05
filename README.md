@@ -1,4 +1,6 @@
-# (Work in Progress) Aetherial Islands Dimension
+# Note: I am not going to continue work on this project in the foreseeable future!
+
+# (Work in Progress) (somewhat abandoned) Aetherial Islands Dimension
 
 This Minecraft datapack puts [klinbee's Aetherial Islands](https://github.com/klinbee/Aetherial-Islands) in a different dimension. It aims to leave the overworld unaffected and reach complete parity with the original project.
 I also aim to add compatibility with [No Void Structures](https://modrinth.com/mod/no-void-structures).
